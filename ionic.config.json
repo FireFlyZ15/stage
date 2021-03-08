@@ -1,0 +1,8 @@
+{
+  "name": "Stage",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "78e00ea4"
+}
